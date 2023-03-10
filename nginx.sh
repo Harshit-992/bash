@@ -27,6 +27,6 @@ if [ $cond == 1 ];
 then
 	echo "Installed Successfully"
 else
-	echo "Pagal hai kya kyu nahi krna"
+	echo "NOt installed"
 fi
 
